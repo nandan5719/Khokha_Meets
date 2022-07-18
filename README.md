@@ -21,7 +21,7 @@
 - Open http://localhost:3000 to view it in the browser.
 
 ## Welcome Page
-<img src=".p1.png" width="1000"> <br>
+<img src="p1.png" width="1000"> <br>
 - The welcome page asks the user to click on **login with Google** and then redirects users to Google sign in page
 ## Sign in Page
 <img src="p2.png" width="1000"> <br>
