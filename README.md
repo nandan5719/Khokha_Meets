@@ -24,7 +24,7 @@
 <img src="./pictures/p1.png" width="1000"> <br>
 - The welcome page asks the user to click on **login with Google** and then redirects users to Google sign in page
 ## Sign in Page
-<img src="./pictures/p2.png" width="1000"> <br>
+<img src="p2.png" width="1000"> <br>
 ## Join Meeting 
 <img src="./pictures/p3.png" width="1000"> <br>
 - Users can either join through a meeting link , send meeting invite or can join an instant meet.
